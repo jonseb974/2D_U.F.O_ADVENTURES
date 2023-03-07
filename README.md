@@ -63,4 +63,4 @@ The player is a Spacecraft.
 
 - [My linkedin](https://www.linkedin.com/mynetwork/)
 
-- [Email me at](sebastien.jonad@gmail.com )
+- [Email me at](sebastien.jonad@gmail.com)

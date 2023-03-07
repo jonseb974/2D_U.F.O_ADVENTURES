@@ -9,3 +9,17 @@ It will involve a main character, in an adventure quite simple and designed to s
 
 ## THE GAME ARCHITECTURE
 ![architecture](architecture.png)
+
+## TECHNOLOGIES & Software
+- HTML
+- CSS
+- JavaScript 
+- Blender
+- Gimp
+- Medibang
+- Krita
+- TexturePacker
+
+I choose to use JavaScript instead of C and C#, because the coding syntax is shorter,  and I wanted to learn about this language. To do it in the context of this challenge with a short deadline is motivating. Even C is a low level and performing language faster, for my project this does not matter much.
+
+For the animation I choose to use Javascript instead of unity because I will not have enough time to learn and experiment with this tool, and because this is a solo project nobody can help me in my task.

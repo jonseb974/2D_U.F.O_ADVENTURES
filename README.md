@@ -60,6 +60,7 @@ The player is a Spacecraft.
 - [Airbnb Clone project](https://github.com/jonseb974/holbertonschool-AirBnB_clone_v4)
 
 ## AUTHOR
-- [Sebastien JONAD](https://github.com/jonseb974)
-- [My linkedin](https://www.linkedin.com/mynetwork/)
 
+- [Sebastien JONAD](https://github.com/jonseb974)
+
+- [My linkedin](https://www.linkedin.com/mynetwork/)

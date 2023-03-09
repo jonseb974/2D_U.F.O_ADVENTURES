@@ -39,7 +39,7 @@ To play the game use your keyboard, move the character using up and down arrows,
 
 The player is a Spacecraft.
 
-- Beat the clock Challenge game: You have 60 seconds to reach the max Score 500, else you lose.
+- Beat the clock Challenge game: You have 60 seconds to reach the max Score 525, else you lose.
 
 - If there is a collision with an enemy you lose 1 point.
 
